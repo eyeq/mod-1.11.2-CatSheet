@@ -1,0 +1,7 @@
+{
+	"parent": "block/carpet",
+	"textures": {
+		"particle": "eyeq_catsheet:blocks/cat_sheet_colored_gray",
+		"wool": "eyeq_catsheet:blocks/cat_sheet_colored_gray"
+	}
+}
